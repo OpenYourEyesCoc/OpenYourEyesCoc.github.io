@@ -3675,9 +3675,12 @@ readers do not read off random characters that represent icons */
 .fa-swatchbook:before {
   content: "\f5c3"; }
 
+<<<<<<< HEAD
 /* .fa-swords:before {
   content: "\f71d"; } */
 
+=======
+>>>>>>> 8a5a868ddbc68bb691b489f5d9ebabdd31d45f5b
 .fa-swimmer:before {
   content: "\f5c4"; }
 
